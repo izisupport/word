@@ -1,0 +1,69 @@
+/*
+Theme Name: IZI Support Corporate Theme
+Description: A modern corporate theme for IZI Support technology company with horizontal scrolling partners section
+Author: IZI Support Team
+Version: 1.0.1
+License: GPL v2 or later
+*/
+
+/* This file is required by WordPress but the main styles are in assets/css/main.css */
+
+/* WordPress-required styles */
+.alignleft {
+    float: left;
+    margin-right: 1rem;
+}
+
+.alignright {
+    float: right;
+    margin-left: 1rem;
+}
+
+.aligncenter {
+    display: block;
+    margin: 0 auto;
+}
+
+.wp-caption {
+    max-width: 100%;
+}
+
+.wp-caption-text {
+    font-size: 0.875rem;
+    text-align: center;
+    margin-top: 0.5rem;
+}
+
+/* Screen reader text */
+.screen-reader-text {
+    border: 0;
+    clip: rect(1px, 1px, 1px, 1px);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute !important;
+    width: 1px;
+    word-wrap: normal !important;
+}
+
+/* Accessibility improvements */
+.skip-link {
+    background: #f1f1f1;
+    color: #21759b;
+    left: -9999em;
+    line-height: normal;
+    padding: 8px 16px;
+    position: absolute;
+    top: -9999em;
+    text-decoration: none;
+    z-index: 999999999;
+}
+
+.skip-link:focus {
+    clip-path: none;
+    left: 6px;
+    top: 7px;
+    z-index: 999999999;
+}
