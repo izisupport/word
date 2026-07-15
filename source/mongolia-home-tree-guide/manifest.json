@@ -1,0 +1,26 @@
+{
+  "title": "Home Tree Planting and Care in Mongolia",
+  "language": "English",
+  "edition": "1.0",
+  "chapters": [
+    "00_README.md",
+    "01_climate_site_assessment.md",
+    "02_species_selection.md",
+    "03_yard_design.md",
+    "04_planting_stock_and_timing.md",
+    "05_planting_procedure.md",
+    "06_watering.md",
+    "07_soil_mulch_fertilization.md",
+    "08_pruning_staking_wind_winter.md",
+    "09_pests_diseases_and_diagnosis.md",
+    "10_first_three_years.md",
+    "11_propagation_and_small_nursery.md",
+    "12_annual_calendar.md",
+    "13_sample_yard_plans.md",
+    "14_sources_and_evidence_map.md"
+  ],
+  "core_source_files": [
+    "sustainnable-forest-management-silviculture-baics.pdf",
+    "stream-report-on-forest-nurseries_eng.pdf"
+  ]
+}
